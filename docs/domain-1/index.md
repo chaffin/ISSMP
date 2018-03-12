@@ -2,7 +2,7 @@
 ---
 ## Leadership and Business Management
 
-### 1.1	 Establish Security’s Role in Organizational Culture, Vision, and Mission
+### 1.1 [Establish Security’s Role in Organizational Culture, Vision, and Mission](task-1.1.md)
 - Define information security program vision and mission
 - Align security with organizational goals, objectives, and values
 - Explain business processes and their relationships

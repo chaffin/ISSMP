@@ -8,7 +8,7 @@
 - Explain business processes and their relationships
 - Describe the relationship between organizational culture and security
 
-### 1.2	 Align Security Program with Organizational Governance
+### 1.2	 [Align Security Program with Organizational Governance](task-1.2.md)
 - Identify and navigate organizational governance structure
 - Recognize roles of key stakeholders
 - Recognize sources and boundaries of authorization

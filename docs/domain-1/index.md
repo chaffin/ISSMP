@@ -1,4 +1,4 @@
-[Domains](../index.md)
+&laquo; [Domains](../index.md)
 ---
 ## Leadership and Business Management
 

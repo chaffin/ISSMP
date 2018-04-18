@@ -1,5 +1,5 @@
 ## ISSMP
-My study guide for the Certified Information Systems Security Professional Management (CISSP) — Information Systems Security Professional (ISSMP) exam.
+Study guide for the Certified Information Systems Security Professional (CISSP) — Information Systems Security Management Professional (ISSMP) exam.
 
 ## Domains
 1. [Leadership and Business Management](./domain-1/index.md) &ndash; **22%**
